@@ -31,7 +31,7 @@
         </tr> 
         <tr> 
             <td>3</td> 
-            <td>http://localhost:8080/product/202</td> 
+            <td>http://localhost:8080/product/102</td> 
             <td>GET product by Id</td> 
         </tr> 
      <tr> 
@@ -48,19 +48,19 @@
     </br>
 </br>
 <h6>GET all the product</h6>
-<img src="CRUD/All.png" alt="All">
+<img src="CRUD/GET all.png" alt="All">
 </br>
 <h6>POST - create a new product</h6>
-<img src="CRUD/new.png" alt="new">
+<img src="CRUD1/POST.png" alt="new">
 </br>
 <h6>GET product by Id</h6>
-<img src="CRUD/Id.png" alt="Id">
+<img src="CRUD/GET id.png" alt="Id">
 </br>
 <h6>DELETE - Delete product by id</h6>
-<img src="CRUD/Delete.png" alt="Delete">
+<img src="CRUD/DELETE.png" alt="Delete">
 </br>
 <h6>PUT - update product bin Id</h6>
-<img src="CRUD/update.png" alt="Delete">
+<img src="CRUD/UPDATE.png" alt="Delete">
 
 </br>
 </br>
