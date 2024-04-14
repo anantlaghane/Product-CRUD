@@ -48,19 +48,19 @@
     </br>
 </br>
 <h6>GET all the product</h6>
-<img src="CRUD/GET all.png" alt="All">
+<img src="CRUD1/GET all.png" alt="All">
 </br>
 <h6>POST - create a new product</h6>
 <img src="CRUD1/POST.png" alt="new">
 </br>
 <h6>GET product by Id</h6>
-<img src="CRUD/GET id.png" alt="Id">
+<img src="CRUD1/GET id.png" alt="Id">
 </br>
 <h6>DELETE - Delete product by id</h6>
-<img src="CRUD/DELETE.png" alt="Delete">
+<img src="CRUD1/DELETE.png" alt="Delete">
 </br>
 <h6>PUT - update product bin Id</h6>
-<img src="CRUD/UPDATE.png" alt="Delete">
+<img src="CRUD1/UPDATE.png" alt="Delete">
 
 </br>
 </br>
