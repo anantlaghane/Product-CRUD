@@ -62,6 +62,9 @@
 <h6>PUT - update product bin Id</h6>
 <img src="CRUD/update.png" alt="Delete">
 
+</br>
+</br>
+
 
 
     
