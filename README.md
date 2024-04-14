@@ -60,7 +60,7 @@
 <img src="CRUD1/DELETE.png" alt="Delete">
 </br>
 <h6>PUT - update product bin Id</h6>
-<img src="CRUD1/UPDATE.png" alt="Delete">
+<img src="CRUD1/PUT.png" alt="Delete">
 
 </br>
 </br>
