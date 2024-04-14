@@ -31,7 +31,7 @@
         </tr> 
         <tr> 
             <td>3</td> 
-            <td>http://localhost:8080/product/102</td> 
+            <td>http://localhost:8080/product/202</td> 
             <td>GET product by Id</td> 
         </tr> 
      <tr> 
